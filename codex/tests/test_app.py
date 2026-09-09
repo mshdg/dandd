@@ -1,5 +1,5 @@
-import yaml
 import pytest
+import yaml
 
 import app as app_module
 
